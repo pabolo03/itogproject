@@ -28,3 +28,8 @@ API возвращает JSON‑объект с информацией о пол
 - `name` — полное имя
 - `public_repos` — количество публичных репозиториев
 - `followers` — количество подписчиков
+
+## Установка
+bash
+git clone https://github.com/pabolo03/itogproject.git
+cd your-repo
